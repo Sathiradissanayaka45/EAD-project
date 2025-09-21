@@ -1,0 +1,171 @@
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\appsettings.Development.json
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\appsettings.json
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\WEB_API.exe
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\WEB_API.deps.json
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\WEB_API.runtimeconfig.json
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\WEB_API.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\WEB_API.pdb
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.AssemblyReference.cache
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.AssemblyInfoInputs.cache
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.AssemblyInfo.cs
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.CoreCompileInputs.cache
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.MvcApplicationPartsAssemblyInfo.cs
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.MvcApplicationPartsAssemblyInfo.cache
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.WEB_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.build.WEB_API.props
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEB_API.props
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEB_API.props
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\scopedcss\bundle\WEB_API.styles.css
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.CopyComplete
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\refint\WEB_API.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.pdb
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\WEB_API.genruntimeconfig.cache
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\obj\Debug\net6.0\ref\WEB_API.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\DnsClient.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\SharpCompress.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Snappier.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\ZstdSharp.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\System.Web.Cors.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\System.Web.Http.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SLIIT\4th Year\EAD\Assignment\web-api\WEB_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\appsettings.json
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\WEB_API.exe
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\WEB_API.deps.json
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\WEB_API.runtimeconfig.json
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\WEB_API.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\WEB_API.pdb
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Snappier.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\sulak\Source\Repos\web-api\WEB_API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.AssemblyReference.cache
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.AssemblyInfoInputs.cache
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.AssemblyInfo.cs
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.CoreCompileInputs.cache
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.WEB_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.build.WEB_API.props
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEB_API.props
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEB_API.props
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\scopedcss\bundle\WEB_API.styles.css
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.CopyComplete
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\refint\WEB_API.dll
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.pdb
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\WEB_API.genruntimeconfig.cache
+C:\Users\sulak\Source\Repos\web-api\WEB_API\obj\Debug\net6.0\ref\WEB_API.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\appsettings.Development.json
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\appsettings.json
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\WEB_API.exe
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\WEB_API.deps.json
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\WEB_API.runtimeconfig.json
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\WEB_API.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\WEB_API.pdb
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\DnsClient.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\System.Web.Cors.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\System.Web.Http.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\SharpCompress.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Snappier.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\ZstdSharp.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.AssemblyReference.cache
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.AssemblyInfoInputs.cache
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.AssemblyInfo.cs
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.CoreCompileInputs.cache
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.MvcApplicationPartsAssemblyInfo.cs
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.MvcApplicationPartsAssemblyInfo.cache
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.WEB_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.build.WEB_API.props
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEB_API.props
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEB_API.props
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\scopedcss\bundle\WEB_API.styles.css
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.csproj.CopyComplete
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\refint\WEB_API.dll
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.pdb
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\WEB_API.genruntimeconfig.cache
+D:\SLIIT\Y4S2\EAD\Assignment\web\web-api\WEB_API\obj\Debug\net6.0\ref\WEB_API.dll
