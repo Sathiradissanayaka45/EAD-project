@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/historyTextViewTrainName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:fontFamily="@font/comfortaabold"/>
+
+    <TextView
+        android:id="@+id/historyTextViewStart"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/red"
+        android:textSize="16dp"
+        android:fontFamily="@font/comfortaabold"
+        />
+    <TextView
+        android:id="@+id/historyTextViewTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/purple_700"
+        android:textSize="16dp"
+        android:fontFamily="@font/comfortaabold"
+        />
+
+    <TextView
+        android:id="@+id/historyTextViewBookedDate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/green"
+        android:textSize="16dp"
+        android:fontFamily="@font/comfortaabold"
+        />
+
+    <TextView
+        android:id="@+id/historyTextViewCancelWarn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/orange"
+        android:textSize="16dp"
+        android:fontFamily="@font/comfortaabold"
+        />
+
+    <Button
+        android:id="@+id/cancelBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/comfortaabold"
+        android:paddingStart="20dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="20dp"
+        android:text=""
+        android:textColor="@color/white"
+        app:cornerRadius="10dp" />
+
+
+</LinearLayout>

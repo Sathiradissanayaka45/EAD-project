@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/trainTextViewUsername"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:fontFamily="@font/comfortaabold"/>
+
+    <TextView
+        android:id="@+id/trainTextViewStart"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/red"
+        android:textSize="16dp"
+        android:fontFamily="@font/comfortaabold"
+       />
+    <TextView
+        android:id="@+id/trainTextViewTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:fontFamily="@font/comfortaabold"
+        />
+
+    <TextView
+        android:id="@+id/trainTextViewWarn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textColor="@color/orange"
+        android:textSize="16dp"
+        android:fontFamily="@font/comfortaabold"
+        />
+
+    <Button
+        android:id="@+id/trainBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/comfortaabold"
+        android:paddingStart="20dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="20dp"
+        android:text="➕ Book"
+        android:textColor="@color/white"
+        app:cornerRadius="10dp" />
+    <Button
+        android:id="@+id/requestBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
+        android:fontFamily="@font/comfortaabold"
+        android:paddingStart="20dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="20dp"
+        android:text="☑ Request Travel Agent"
+        android:textColor="@color/white"
+        app:cornerRadius="10dp" />
+</LinearLayout>
